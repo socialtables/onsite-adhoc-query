@@ -1,6 +1,6 @@
 "use strict";
 
-module.exports = function (opts) {
+module.exports = function () {
 	return {
 		body: {
 			size: 0,
